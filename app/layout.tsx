@@ -9,9 +9,8 @@ import "./globals.css";
 import { Toaster } from "@/components/ui/toaster";
 
 const inter = Inter({ subsets: ["latin"] });
-
 export const metadata: Metadata = {
-  title: "YOOM",
+  title: "MitsCall",
   description: "Video calling App",
   icons: {
     icon: "/icons/logo.svg",
