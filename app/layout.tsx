@@ -13,7 +13,8 @@ export const metadata: Metadata = {
   title: "MitsCall",
   description: "Video calling App",
   icons: {
-    icon: "/icons/logo.svg",
+    icon:"/icon/file.svg",
+    
   },
 };
 
