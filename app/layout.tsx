@@ -27,7 +27,7 @@ export default function RootLayout({
         appearance={{
           layout: {
             socialButtonsVariant: "iconButton",
-            logoImageUrl: "/icons/mitscall.png",
+            logoImageUrl: "/icons/file.svg",
           },
           variables: {
             colorText: "#fff",
